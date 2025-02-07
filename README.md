@@ -14,8 +14,6 @@ The following key modules/pages are automated:
 Key test cases(total **51**) are written for each module and test suites created including the positive and negative test cases.</br>A state-transition flow of test-cases are designed and run like a user buying a product from an e-commerce site.</br>
 For failed test cases it will take a screenshot aswell at the point of failure.
 
-View the excel file from this [link](https://cutt.ly/oNogWmX).
-
 ### Technology: </br>
 
 - Tool: Selenium Webdriver
@@ -47,14 +45,3 @@ gradle clean test
 allure generate allure-results --clean -o allure-report
 allure serve allure-results
 ```
-
-**Below is my allure overview report**:
-
-![Overview](https://user-images.githubusercontent.com/55280106/185918375-8ac0df03-ee09-4215-a6df-ecdbcf9fd5cd.png)
-
-**Here are the suites of this project**:
-
-![suites](https://user-images.githubusercontent.com/55280106/185918539-c40ea3e9-dd3f-4e56-b223-adcf80fcbf25.png)
-
-**Here is the overall walkthrough of the project:** [Video](https://drive.google.com/file/d/1fx4bMzsdBhugkUjqPKAI1z9UCwFo8W_-/view?usp=sharing)</br>
-**You can watch the sanity testing of Checkout module from here:** [Video](https://drive.google.com/file/d/1nsk8-EKik-BnvjvH4mSwOwV7COD7dsas/view?usp=sharing)
