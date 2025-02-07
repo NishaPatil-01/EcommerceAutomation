@@ -32,10 +32,4 @@ For failed test cases it will take a screenshot aswell at the point of failure.
 - Let the project build successfully
 - Click on "Terminal" and run the automation scripts
 
-### Run the Automation Script by the following command
 
-```java
-gradle clean test
-```
-
-- Selenium will open the browser and start automating.
