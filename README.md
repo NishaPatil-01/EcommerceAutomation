@@ -39,9 +39,3 @@ gradle clean test
 ```
 
 - Selenium will open the browser and start automating.
-- After automation to view allure report , give the following commands:
-
-```java
-allure generate allure-results --clean -o allure-report
-allure serve allure-results
-```
